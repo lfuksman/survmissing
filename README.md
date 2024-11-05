@@ -5,9 +5,10 @@ because this type of event data comes from real-world data collection, missing d
 Using Rubin’s terminology, there are three types of missing: missing completely at random (MCAR), missing at random (MAR) and missing not at random (MNAR). The various R codes in the repository are supplements to the following papers: 
 
 1.	Efromovich, S.* and Fuksman, L.* Study of imputation procedures for nonparametric density estimation based on missing censored lifetimes. Computational Statistics & Data Analysis, 2024, Volume 198. https://doi.org/10.1016/j.csda.2024.107994.
+    - paper_1_code: univariate density estimation under MCAR missing
 
-2.	Efromovich, S.* and Fuksman, L.* Missing in Survival Analysis. In: Ansari, J., et al. Combining, Modelling and Analyzing Imprecision, Randomness and Dependence. SMPS 2024. Advances in Intelligent Systems and Computing, 2024, vol 1458. Springer, Cham. https://doi.org/10.1007/978-3-031-65993-5_16.
+2.	Efromovich, S.* and Fuksman, L.* Nonparametric estimation for missing right censored lifetimes. Submitted, in review.
+    - paper_2_code: marginal and conditional density and hazard rate estimation under MAR missing	 
 
-3.	Efromovich, S.* and Fuksman, L.* Nonparametric estimation for missing right censored lifetimes. Submitted, in review.
-
+3.	Efromovich, S.* and Fuksman, L.* Missing in Survival Analysis. In: Ansari, J., et al. Combining, Modelling and Analyzing Imprecision, Randomness and Dependence. SMPS 2024. Advances in Intelligent Systems and Computing, 2024, vol 1458. Springer, Cham. https://doi.org/10.1007/978-3-031-65993-5_16.	  
 
