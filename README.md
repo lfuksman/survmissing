@@ -10,5 +10,6 @@ Using Rubin’s terminology, there are three types of missing: missing completel
 2.	Efromovich, S.* and Fuksman, L.* Nonparametric estimation for missing right censored lifetimes. Submitted, in review.
     - paper_2_code: marginal and conditional density and hazard rate estimation under MAR missing	 
 
-3.	Efromovich, S.* and Fuksman, L.* Missing in Survival Analysis. In: Ansari, J., et al. Combining, Modelling and Analyzing Imprecision, Randomness and Dependence. SMPS 2024. Advances in Intelligent Systems and Computing, 2024, vol 1458. Springer, Cham. https://doi.org/10.1007/978-3-031-65993-5_16.	  
+3.	Efromovich, S.* and Fuksman, L.* Missing in Survival Analysis. In: Ansari, J., et al. Combining, Modelling and Analyzing Imprecision, Randomness and Dependence. SMPS 2024. Advances in Intelligent Systems and Computing, 2024, vol 1458. Springer, Cham. https://doi.org/10.1007/978-3-031-65993-5_16.
+	- paper_3_code: bivariate density estimation under MCAR missing 
 
